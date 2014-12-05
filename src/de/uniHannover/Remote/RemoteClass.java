@@ -1,4 +1,4 @@
-package de.uniHannover.Remote;
+
 
 public class RemoteClass {
 
